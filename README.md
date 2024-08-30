@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="150" src="![image](https://github.com/user-attachments/assets/1ac9a742-6e12-4d55-835d-6c99ced4498b)
-"  />
+  <img height="150" src="https://media.licdn.com/dms/image/D5612AQFfhTEictqBHA/article-cover_image-shrink_720_1280/0/1716965604025?e=2147483647&v=beta&t=QQbiRZaZNurRKVw6bW1J0hG5x2f-7PMAowmfdFF3Dz4"  />
 </div>
 
 ###
