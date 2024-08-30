@@ -22,7 +22,7 @@
   logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61550218941248">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0077B9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
   <a href="https://x.com/Mamun56136">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
