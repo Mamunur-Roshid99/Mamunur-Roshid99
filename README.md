@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://1drv.ms/i/s!Auvc14QABeYLgaEKq1DSxlxN9147CA?e=YpzZjs"  />
+  <img height="150" src="![image](https://github.com/user-attachments/assets/1ac9a742-6e12-4d55-835d-6c99ced4498b)
+"  />
 </div>
 
 ###
@@ -58,11 +59,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
