@@ -1,49 +1,27 @@
-<div align="center">
-  <img height="300" width="100%" src="https://media.licdn.com/dms/image/D5612AQFfhTEictqBHA/article-cover_image-shrink_720_1280/0/1716965604025?e=2147483647&v=beta&t=QQbiRZaZNurRKVw6bW1J0hG5x2f-7PMAowmfdFF3Dz4"  />
-</div>
-
-###
-
-<h1 align="center">Hi , I'm Mamunur Roshid 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Mamunur Roshid, a passionate front-end developer with a knack for creating engaging and user-friendly web experiences. With a strong foundation in HTML, CSS, and JavaScript, I enjoy bringing designs to life and ensuring they look great on any device.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<p align="left">
-<a href="https://twitter.com/https://x.com/mamun56136?t=wldjgeyoi1e4zjwecgpuoq&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/mamun56136?t=wldjgeyoi1e4zjwecgpuoq&s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mamunur-roshid99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mamunur-roshid99/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61550218941248&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61550218941248&mibextid=zbwkwl" height="30" width="40" /></a>
+<p align="center">
+  <a href="www.linkedin.com/in/mamunur-roshid99" target="_blank">
+    <img src="img.jpeg" alt="Mamunur Roshid">
+  </a>
 </p>
 
-###
+<h2 align="center">Hey 👋, I'm Mamunur Roshid</h2>
+<p align="center">I'm Mamunur Roshid, a passionate front-end developer with a knack for creating engaging and user-friendly web experiences. With a strong foundation in HTML, CSS, Tailwind Css, and JavaScript, I enjoy bringing designs to life and ensuring they look great on any device.</p>
 
-<h3 align="left">🛠 Language and tools</h3>
 
-###
+- 🌱 I’m currently learning **Fornt End Developer**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+- 📫 How to reach me **web.dev.anas5@gmail.com**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/Mamun56136?t=RVsBz-cfv1O25Ww7HoFNvA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anasweb14783" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mamunur-roshid99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamunur_roshid" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61550218941248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mamunur Roshid" height="30" width="40" /></a>
+</p>
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mamunur-Roshid99&show_icons=true&locale=en&layout=compact" alt="Mamunur-Roshid99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mamunur-Roshid99&" alt="Mamunur-Roshid99" /></p>
