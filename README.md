@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="www.linkedin.com/in/mamunur-roshid99" target="_blank">
+  <a href="https://www.linkedin.com/in/mamunur-roshid99/" target="_blank">
     <img src="img.jpeg" alt="Mamunur Roshid">
   </a>
 </p>
