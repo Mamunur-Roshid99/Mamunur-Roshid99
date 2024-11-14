@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mamunur-roshid99/" target="_blank">
-    <img src="cover.png" alt="Mamunur Roshid">
+    <img src="cover1.png" alt="Mamunur Roshid">
   </a>
 </p>
 
