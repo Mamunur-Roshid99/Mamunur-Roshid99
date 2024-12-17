@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Fornt End Developer**
 
-- 📫 How to reach me **roshidmamunur348@gmail.com**
+- 📫 How to reach me **web.dev.anas5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
