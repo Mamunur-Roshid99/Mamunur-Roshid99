@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">Hey 👋, I'm Mamunur Roshid Anas</h2>
-<p align="center">I’m Mamunur Roshid, a creative front-end developer who transforms ideas into interactive and visually appealing web experiences. With expertise inHTML, CSS, JavaScript, React, and Tailwind CSS, I focus on delivering designs that are not just responsive but also intuitive. My mission is to craft digital solutions that blend aesthetics with functionality, ensuring they shine on every device and platform.</p>
+<p align="center">I’m Mamunur Roshid, a creative front-end developer who transforms ideas into interactive and visually appealing web experiences. With expertise in HTML, CSS, JavaScript, React, and Tailwind CSS, I focus on delivering designs that are not just responsive but also intuitive. My mission is to craft digital solutions that blend aesthetics with functionality, ensuring they shine on every device and platform.</p>
 
 
 - 🌱 I’m currently learning **Fornt End Developer**
