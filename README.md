@@ -5,10 +5,13 @@
 </p>
 
 <h2 align="center">Hey 👋, I'm Mamunur Roshid Anas</h2>
-<p align="center">I’m Mamunur Roshid, a creative front-end developer who transforms ideas into interactive and visually appealing web experiences. With expertise in HTML, CSS, JavaScript, React, and Tailwind CSS, I focus on delivering designs that are not just responsive but also intuitive. My mission is to craft digital solutions that blend aesthetics with functionality, ensuring they shine on every device and platform.</p>
+<p align="center">I'm Mamunur Roshid Anas, an 18-year-old MERN Stack Developer with a passion for building full-stack web applications that are fast, scalable, and user-centric.
+I specialize in MongoDB, Express.js, React.js, and Node.js, creating seamless and responsive digital solutions — from sleek front-end interfaces to powerful back-end APIs. I love turning complex problems into simple, elegant code.
+🔧 Whether it’s building modern UIs with React & TailwindCSS, or designing RESTful APIs and managing databases, I thrive on solving challenges and learning new technologies along the way.
+🚀 Let’s build something impactful together!</p>
 
 
-- 🌱 I’m currently learning **Fornt End Developer**
+- 🌱 I’m currently learning **Mern Stack Developer**
 
 - 📫 How to reach me **web.dev.anas5@gmail.com**
 
