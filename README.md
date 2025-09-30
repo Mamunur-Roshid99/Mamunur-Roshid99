@@ -5,6 +5,12 @@
 </p>
 
 <h2 align="center">Hey 👋, I'm Mamunur Roshid Anas</h2>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer;Next.js+Developer" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="center">I'm a Junior MERN Stack Developer with a strong grasp of Tailwind CSS, crafting sleek and responsive user interfaces that seamlessly blend design and functionality. Leveraging the power of ReactJS, I build dynamic front-end experiences that are both user-friendly and performance-driven. On the back end, I'm familiar with the fundamentals of Express.js, Node.js, and MongoDB, allowing me to contribute to full-stack projects with confidence.</p>
 
 
