@@ -6,9 +6,6 @@
 
 <h2 align="center">Hey 👋, I'm Mamunur Roshid Anas</h2>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer;Next.js+Developer" alt="Typing SVG" />
-  </a>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70063&width=435&lines=Next.js+Developer;Mern+Stack+Developer;Front+End+Developer" alt="Typing SVG" /></a>
 </p>
 
