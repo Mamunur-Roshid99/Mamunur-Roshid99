@@ -6,24 +6,20 @@
 
 <h2 align="center">Hey 👋, I'm Mamunur Roshid Anas</h2>
 
-<p align="center">I'm a Junior MERN Stack Developer with a strong grasp of Tailwind CSS, crafting sleek and responsive user interfaces that seamlessly blend design and functionality. Leveraging the power of ReactJS, I build dynamic front-end experiences that are both user-friendly and performance-driven. On the back end, I'm familiar with the fundamentals of Express.js, Node.js, and MongoDB, allowing me to contribute to full-stack projects with confidence.</p>
+# 💫 About Me:
+I am a Junior MERN Stack Developer with hands-on experience in building modern, scalable, and responsive web applications. I specialize in creating clean and intuitive user interfaces using Tailwind CSS, ensuring a seamless blend of design and functionality. With React.js and Next.js, I develop dynamic, performance-driven front-end solutions with a strong focus on user experience and optimization.
+
+On the backend, I work with Node.js, Express.js, and MongoDB, allowing me to confidently contribute to full-stack development. I am committed to writing clean, maintainable code and continuously expanding my technical expertise to deliver reliable and efficient web solutions.
 
 
-- 🌱 I’m currently learning **Mern Stack Developer**
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mamun027900) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mamunurroshidanas99) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mamunur_roshid12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mamunur-roshid99) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roshidmamunur348@gmail.com) 
 
-- 📫 How to reach me **roshidmamunur348@gmail.com**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mamunur-Roshid99&theme=calm&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mamunur-Roshid99&theme=calm&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamunur-Roshid99&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/Mamun56136?t=RVsBz-cfv1O25Ww7HoFNvA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anasweb14783" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mamunur-roshid99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamunur_roshid" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=61550218941248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mamunur Roshid" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://www.nazmussakib.dev/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fduuwqmunp%2Fimage%2Fupload%2Fv1726062862%2Fundefined-1726062859219.png&w=256&q=75" alt="tailwind" width="40" height="40"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLG-N028bTJp3uj9yWfv6QO-4C3t-m29FefA&s" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.mongodb.com/docs/manual/reference/write-concern/" target="_blank" rel="noreferrer"> <img src="https://www.nazmussakib.dev/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fduuwqmunp%2Fimage%2Fupload%2Fv1726062831%2Fundefined-1726062829048.png&w=256&q=75" alt="tailwind" width="40" height="40"/> </a>  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/1200x/93/8a/55/938a551e5b56fe9fd818e47b456e9f50.jpg" alt="next.js" width="40" height="40"/> </a> 
-
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mamunur-Roshid99&show_icons=true&locale=en&layout=compact" alt="Mamunur-Roshid" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mamunur-Roshid99&" alt="Mamunur-Roshid99" /></p>
+[![](https://visitcount.itsvg.in/api?id=Mamunur-Roshid99&icon=0&color=0)](https://visitcount.itsvg.in)
